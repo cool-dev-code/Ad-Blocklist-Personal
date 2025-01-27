@@ -1,2 +1,2 @@
-# adbp-blocklist-personal
-adbp-blocklist-personal
+# ABP-Blocklist-Personal
+- Block list for ABP Extension
